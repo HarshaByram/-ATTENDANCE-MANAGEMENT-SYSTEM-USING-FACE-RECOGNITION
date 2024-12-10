@@ -69,6 +69,7 @@ Download the Haarcascade XML file for face detection from the [OpenCV GitHub rep
 
 ---
 
+
 ## Directory Structure
 ```plaintext
 Attendance Management System using Face Recognition/
